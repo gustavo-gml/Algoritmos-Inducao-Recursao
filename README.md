@@ -30,8 +30,8 @@ Certifique-se de ter o [Python 3](https://www.python.org/) instalado em sua máq
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/gustavo-gml/Algoritmos-Inducao-Recursao.git](https://github.com/gustavo-gml/Algoritmos-Inducao-Recursao.git)
-    
+    git clone https://github.com/gustavo-gml/Algoritmos-Inducao-Recursao.git
+
     ```
 2.  Acesse a pasta do projeto:
     ```bash
