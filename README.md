@@ -1,4 +1,4 @@
-Indução Matemática e Recursividade: Algoritmos e Aplicações
+# Indução Matemática e Recursividade: Algoritmos e Aplicações
 
 Este repositório contém os códigos-fonte desenvolvidos como parte integrante do trabalho acadêmico **"Indução e Recursão: Definições, Propriedades e Aplicações Computacionais"**, apresentado ao curso de Sistemas de Informação do IFSULDEMINAS - Campus Machado.
 
